@@ -13,7 +13,7 @@ The goal of this project was create an real-time anomaly detection in surveillan
 For this project, we will utilize the [UCF Crime Dataset](https://www.dropbox.com/sh/75v5ehq4cdg5g5g/AABvnJSwZI7zXb8_myBA0CLHa?dl=0).
 The UCF-Crime Dataset contains a collection of surveillance videos capturing anomalous and normal activities. Each video clip is labeled with information about the type of anomalous event or normal, providing a suitable foundation for training and evaluating our real-time anomaly detection system.
 
-<img width="449" alt="image" src="https://github.com/Bao-Thien-Ngo/Hackathon/assets/46905932/cff800ea-27ea-4b03-b706-6a63ed974f0c">
+<img width="449" align="center" alt="image" src="https://github.com/Bao-Thien-Ngo/Hackathon/assets/46905932/cff800ea-27ea-4b03-b706-6a63ed974f0c">
 
 
 ## Visualization
