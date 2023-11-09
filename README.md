@@ -17,7 +17,7 @@ The UCF-Crime Dataset contains a collection of surveillance videos capturing ano
   <img width="600" alt="image" src="https://github.com/Bao-Thien-Ngo/Hackathon/assets/46905932/cff800ea-27ea-4b03-b706-6a63ed974f0c">
 </p>
 
-
+- I3D Feature Extraction: https://mega.nz/folder/Pw1hlAwa#D7dWaoMUqWBp0vtUa9tIGw
 
 ## Visualization
 some image
