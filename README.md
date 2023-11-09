@@ -9,8 +9,8 @@ The goal of this project was create an real-time anomaly detection in surveillan
 - Bao Ngo - bndbv@umsystem.edu
 
 
-## Project Overview
-[Project Overview](https://youtu.be/NfLOfrISgSA)
+## Project Video
+[Project Video](https://youtu.be/dRhIbL1m7nc)
 
 
 ## Data Source
